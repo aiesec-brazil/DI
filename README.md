@@ -1,4 +1,4 @@
-# Digital Intelligence from AIESEC in Brazil 
+# Digital Intelligence MC BATUCA - MC Brites - NST DI COMMIT
 
 Hello Everyone ,
 
