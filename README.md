@@ -1,6 +1,6 @@
-# Digital Intelligence from AIESEC in Brazil 
+# Digital Intelligence MC BATUCA - MC Brites - NST DI COMMIT
 
-Heyy Everyone ,
+Hello Everyone ,
 
 Here is a directory with all documents about new tools and BPM's from AIESEC in Brazil.
 
